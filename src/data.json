@@ -1,0 +1,96 @@
+{
+  "company": {
+    "name": "Seabrook Studios",
+    "website": "https://seabrook-studios.com",
+    "founded": "October 12, 2018",
+    "basedIn": "Melbourne, Australia",
+    "pressContact": "hello@seabrook-studios.com",
+    "social": [
+      { "name": "twitter.com/seabrookstudios", "link": "twitter.com/seabrookstudios" },
+      { "name": "facebook.com/seabrookstudios", "link": "facebook.com/seabrookstudios" }
+    ],
+    "description": "Seabrook Studios is an independent games studio based in Melbourne, Australia. Their current focus is to bring sports games to more people; not just those with great reactions skills.",
+    "header": "Seabrook_Studios/header.png",
+    "history": [],
+    "videos": [],
+    "images": ["Seabrook_Studios/images/IMG_20180914_084651.jpg"],
+    "logos": ["Seabrook_Studios/logos/logo.png"],
+    "awards": [],
+    "quotes": [],
+    "links": [
+      {
+        "title": "Ryan Boucher on Twitter",
+        "description": "Personal twitter for Ryan Boucher (@distributedlife) available at",
+        "link": "http://twitter.com/distributedlife"
+      }
+    ],
+    "credits": [
+      {
+        "name": "Ryan Boucher",
+        "role": "Owner, Seabrook Studios",
+        "website": "http://twitter.com/distributedlife"
+      }
+    ],
+    "contacts": [
+      {
+        "channel": "Inquiries",
+        "email": "hello@seabrook-studios.com"
+      },
+      {
+        "channel": "Twitter",
+        "website": "https://twitter.com/seabrookstudios"
+      },
+      {
+        "channel": "Facebook",
+        "website": "https://facebook.com/seabrookstudios"
+      },
+      {
+        "channel": "Website",
+        "website": "https://seabrook-studios.com"
+      }
+    ]
+  },
+  "games": [
+    {
+      "name": "18 Holes",
+      "description": "18 Holes is strategic golf racing for the masses. Pick your clubs, take your chances as you and your friends try to reach the 18th first. 48 double sided course tiles let you build a new course every time you play.",
+      "releaseDate": "2019",
+      "price": "TBD",
+      "platforms": {
+        "text": "Table Top",
+        "link": "https://18holesgame.com"
+      },
+      "header": "18_Holes/header.png",
+      "images": [
+        "18_Holes/images/2018-10-08 22.14.48.jpg",
+        "18_Holes/images/IMG_20181009_171800.jpg"
+      ],
+      "logos": [
+        "18_Holes/logos/club-2wood.png",
+        "18_Holes/logos/club-driver.png"
+      ],
+      "features": [
+        "48 double-sided course tiles",
+        "18 different clubs",
+        "Chaos golf mode where holes can be scored in any order",
+        "More fun than golf"
+      ],
+      "credits": [
+        {
+          "name": "Ryan Boucher",
+          "role": "Game Designer, Seabrook Studios",
+          "website": "http://twitter.com/distributedlife"
+        },
+        {
+          "name": "Josh Sacco",
+          "role": "Artist",
+          "website": "http://twitter.com/joshsacco"
+        }
+      ]
+    },
+    {
+      "name": "Victory Lap",
+      "credits": []
+    }
+  ]
+}
